@@ -28,3 +28,6 @@ bin/
 .vscode/
 
 .DS_Store
+
+*.bin
+*.db
